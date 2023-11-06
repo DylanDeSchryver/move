@@ -20,7 +20,7 @@ def LEFT(t):
   time.sleep(t)
 
 def BWD(t):
-  kit.motor1.throttle = -0.78
+  kit.motor1.throttle = -0.79
   kit.motor2.throttle = -0.76
   time.sleep(t)
 

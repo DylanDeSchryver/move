@@ -5,7 +5,7 @@ kit = MotorKit(0x40)
 import time
 
 def FWD(t): #where t is time
-  kit.motor1.throttle = 0.76
+  kit.motor1.throttle = 0.78
   kit.motor2.throttle = 0.75
   time.sleep(t)
 

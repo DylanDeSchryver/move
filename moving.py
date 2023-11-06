@@ -32,7 +32,7 @@ def RIGHT(t):
 
 
 
-FWD(4)
+FWD(3.8)
 STOP()
 LEFT(0.95)
 STOP()

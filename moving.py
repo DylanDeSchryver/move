@@ -34,7 +34,7 @@ def RIGHT(t):
 
 FWD(4)
 STOP()
-LEFT(0.98)
+LEFT(0.96)
 STOP()
 FWD(2.6)
 STOP()
